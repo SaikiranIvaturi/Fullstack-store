@@ -1,0 +1,28 @@
+{
+  "name": "fashionstore-production",
+  "version": "1.0.0",
+  "description": "Fashinon E-commerce Store with Mern and Nginx",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SaikiranIvaturi/Fullstack-store.git"
+  },
+  "type": "module",
+  "keywords": [
+    "ecommerce",
+    "mern",
+    "nginx"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaikiranIvaturi/Fullstack-store/issues"
+  },
+  "homepage": "https://github.com/SaikiranIvaturi/Fullstack-store#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
